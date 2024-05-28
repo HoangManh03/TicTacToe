@@ -21,7 +21,7 @@ namespace Tictactoe
         public int nullButton(List<List<Button>> matrix)
         {
             int nullButton = 0;
-            for (int i = 0; i < Constant.CHESS_BOARD_HEIGTH; i++)
+            for (int i = 0; i < Constant.CHESS_BOARD_HEIGHT; i++)
             {
                 for (int j = 0; j < Constant.CHESS_BOARD_WIDTH; j++)
                 {
@@ -120,7 +120,7 @@ namespace Tictactoe
             }
 
             int under = 0;
-            for (int i = button1.Location.Y + Constant.CHESS_WIDTH; i < Constant.CHESS_BOARD_HEIGTH * Constant.CHESS_WIDTH; i += Constant.CHESS_WIDTH)
+            for (int i = button1.Location.Y + Constant.CHESS_WIDTH; i < Constant.CHESS_BOARD_HEIGHT * Constant.CHESS_WIDTH; i += Constant.CHESS_WIDTH)
             {
 
                 if (matrix[i / Constant.CHESS_WIDTH][button1.Location.X / Constant.CHESS_WIDTH].BackgroundImage == button1.BackgroundImage)
@@ -157,7 +157,7 @@ namespace Tictactoe
 
             for (int i = 1; i <= Constant.CHESS_BOARD_WIDTH - (button1.Location.X / Constant.CHESS_WIDTH); i++)
             {
-                if (button1.Location.X / Constant.CHESS_WIDTH + i >= Constant.CHESS_BOARD_WIDTH || button1.Location.Y / Constant.CHESS_WIDTH + i >= Constant.CHESS_BOARD_HEIGTH)
+                if (button1.Location.X / Constant.CHESS_WIDTH + i >= Constant.CHESS_BOARD_WIDTH || button1.Location.Y / Constant.CHESS_WIDTH + i >= Constant.CHESS_BOARD_HEIGHT)
                 {
                     break;
                 }
@@ -199,7 +199,7 @@ namespace Tictactoe
 
             for (int i = 1; i <= button1.Location.X / Constant.CHESS_WIDTH; i++)
             {
-                if (button1.Location.X / Constant.CHESS_WIDTH - i < 0 || (button1.Location.Y / Constant.CHESS_WIDTH) + i >= Constant.CHESS_BOARD_HEIGTH)
+                if (button1.Location.X / Constant.CHESS_WIDTH - i < 0 || (button1.Location.Y / Constant.CHESS_WIDTH) + i >= Constant.CHESS_BOARD_HEIGHT)
                 {
                    
                     break;

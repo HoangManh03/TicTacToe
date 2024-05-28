@@ -38,7 +38,7 @@ namespace Tictactoe
             Matrix = new List<List<Button>>();
 
             Button preButton = new Button() { Width = 0, Height = 0, Location = new Point(0, 0) };
-            for (int i = 0; i < Constant.CHESS_BOARD_HEIGTH; i++)
+            for (int i = 0; i < Constant.CHESS_BOARD_HEIGHT; i++)
             {
                 List<Button> row = new List<Button>();
                 for (int j = 0; j < Constant.CHESS_BOARD_WIDTH + 1; j++)
@@ -46,7 +46,7 @@ namespace Tictactoe
                     Button new_button = new Button()
                     {
                         Width = Constant.CHESS_WIDTH,
-                        Height = Constant.CHESS_HEIGTH,
+                        Height = Constant.CHESS_HEIGHT,
                         Location = new Point(preButton.Location.X + preButton.Width, preButton.Location.Y),
                         BackgroundImageLayout = ImageLayout.Stretch
                     };
@@ -57,7 +57,7 @@ namespace Tictactoe
                     row.Add(new_button);
                 }
                 Matrix.Add(row);
-                preButton.Location = new Point(0, preButton.Location.Y + Constant.CHESS_HEIGTH);
+                preButton.Location = new Point(0, preButton.Location.Y + Constant.CHESS_HEIGHT);
                 preButton.Width = 0;
                 preButton.Height = 0;
             }
@@ -94,7 +94,7 @@ namespace Tictactoe
         public int nullButton(List<List<Button>> matrix)
         {
             int nullButton = 0;
-            for (int i = 0; i < Constant.CHESS_BOARD_HEIGTH; i++)
+            for (int i = 0; i < Constant.CHESS_BOARD_HEIGHT; i++)
             {
                 for (int j = 0; j < Constant.CHESS_BOARD_WIDTH; j++)
                 {
@@ -147,12 +147,12 @@ namespace Tictactoe
 
         private void Gameplay_Bot2_Load(object sender, EventArgs e)
         {
-            Size = new Size(Constant.CHESS_WIDTH * Constant.CHESS_BOARD_WIDTH + 40, Constant.CHESS_HEIGTH * Constant.CHESS_BOARD_HEIGTH + 100);
+            Size = new Size(Constant.CHESS_WIDTH * Constant.CHESS_BOARD_WIDTH + 40, Constant.CHESS_HEIGHT * Constant.CHESS_BOARD_HEIGHT + 100);
         }
 
         private void panel1_Paint_1(object sender, PaintEventArgs e)
         {
-            panel1.Size = new Size(Constant.CHESS_WIDTH * Constant.CHESS_BOARD_WIDTH, Constant.CHESS_HEIGTH * Constant.CHESS_BOARD_HEIGTH);
+            panel1.Size = new Size(Constant.CHESS_WIDTH * Constant.CHESS_BOARD_WIDTH, Constant.CHESS_HEIGHT * Constant.CHESS_BOARD_HEIGHT);
         }
     }
 }

@@ -35,7 +35,7 @@ namespace Tictactoe
             Matrix = new List<List<Button>>();
        
             Button preButton = new Button() { Width = 0, Height = 0, Location = new Point(0, 0) };
-            for (int i = 0; i < Constant.CHESS_BOARD_HEIGTH; i++)
+            for (int i = 0; i < Constant.CHESS_BOARD_HEIGHT; i++)
             {
                 List<Button> row = new List<Button>();
                 for (int j = 0; j < Constant.CHESS_BOARD_WIDTH + 1; j++)
@@ -43,7 +43,7 @@ namespace Tictactoe
                     Button new_button = new Button()
                     {
                         Width = Constant.CHESS_WIDTH,
-                        Height = Constant.CHESS_HEIGTH,
+                        Height = Constant.CHESS_HEIGHT,
                         Location = new Point(preButton.Location.X + preButton.Width, preButton.Location.Y),
                         BackgroundImageLayout = ImageLayout.Stretch
                     };
@@ -54,7 +54,7 @@ namespace Tictactoe
                     row.Add(new_button);
                 }
                 Matrix.Add(row);
-                preButton.Location = new Point(0, preButton.Location.Y + Constant.CHESS_HEIGTH);
+                preButton.Location = new Point(0, preButton.Location.Y + Constant.CHESS_HEIGHT);
                 preButton.Width = 0;
                 preButton.Height = 0;
             }

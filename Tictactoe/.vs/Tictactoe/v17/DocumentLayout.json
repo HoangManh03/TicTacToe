@@ -3,63 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\draw_board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:draw_board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\player_bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:player_bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\gameplay_bot1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:gameplay_bot1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\gameplay_bot1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:gameplay_bot1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\gameplay_bot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:gameplay_bot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\player_bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:player_bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\gameplay_bot1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:gameplay_bot1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|c:\\users\\84917\\onedrive\\m\u00E1y t\u00EDnh\\tictactoe_proj\\tictactoe\\minimax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\minimax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:minimax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C\u1EA5u Gi\u1EA3i 49\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\player_bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:player_bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|c:\\users\\84917\\onedrive\\m\u00E1y t\u00EDnh\\tictactoe_proj\\tictactoe\\draw_board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:draw_board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|solutionrelative:constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C\u1EA5u Gi\u1EA3i 49\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EF6A137-C960-48ED-8A3B-293B9DFF44A7}|Tictactoe.csproj|C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,50 +53,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "Constant.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Constant.cs",
               "RelativeDocumentMoniker": "Constant.cs",
               "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Constant.cs",
               "RelativeToolTip": "Constant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T07:17:11.253Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Draw_Board.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Draw_Board.cs",
               "RelativeDocumentMoniker": "Draw_Board.cs",
               "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Draw_Board.cs",
               "RelativeToolTip": "Draw_Board.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCIAAAAuAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T11:40:58.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Player_Bot.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Player_Bot.cs",
               "RelativeDocumentMoniker": "Player_Bot.cs",
               "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Player_Bot.cs",
               "RelativeToolTip": "Player_Bot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwBgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T03:54:16.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
@@ -129,133 +110,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Menu.cs [Design]",
-              "RelativeToolTip": "Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:22:21.346Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Gameplay_Bot1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay_Bot1.cs",
-              "RelativeDocumentMoniker": "Gameplay_Bot1.cs",
-              "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay_Bot1.cs [Design]",
-              "RelativeToolTip": "Gameplay_Bot1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:39:38.18Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Gameplay.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay.cs",
-              "RelativeDocumentMoniker": "Gameplay.cs",
-              "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay.cs [Design]",
-              "RelativeToolTip": "Gameplay.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:08:53.834Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Gameplay.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay.cs",
               "RelativeDocumentMoniker": "Gameplay.cs",
               "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay.cs",
               "RelativeToolTip": "Gameplay.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvxwAAAAJAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwvz4AAACIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T09:09:54.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:19:31.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "minimax.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\minimax.cs",
               "RelativeDocumentMoniker": "minimax.cs",
               "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\minimax.cs",
               "RelativeToolTip": "minimax.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAHAAAAAdAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwEgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T17:24:44.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Gameplay_Bot1.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay_Bot1.cs",
               "RelativeDocumentMoniker": "Gameplay_Bot1.cs",
               "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay_Bot1.cs",
               "RelativeToolTip": "Gameplay_Bot1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAA0wHIAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T17:36:31.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Player_Bot.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Player_Bot.cs",
-              "RelativeDocumentMoniker": "Player_Bot.cs",
-              "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Player_Bot.cs [Design]",
-              "RelativeToolTip": "Player_Bot.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T04:42:45.285Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Gameplay_Bot2.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay_Bot2.cs",
               "RelativeDocumentMoniker": "Gameplay_Bot2.cs",
               "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Gameplay_Bot2.cs",
               "RelativeToolTip": "Gameplay_Bot2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAIkAAAAAAAAAAADwv5oAAACJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T03:56:29.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "EndGame.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\EndGame.cs",
               "RelativeDocumentMoniker": "EndGame.cs",
               "ToolTip": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\EndGame.cs",
               "RelativeToolTip": "EndGame.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "ViewState": "AQIAALUAAAAAAAAAAAAgwMQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T07:53:09.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "Sort.cpp",
               "DocumentMoniker": "C:\\C\u1EA5u Gi\u1EA3i 49\\Sort.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\C\u1EA5u Gi\u1EA3i 49\\Sort.cpp",
@@ -263,12 +183,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C\u1EA5u Gi\u1EA3i 49\\Sort.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T10:01:45.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T10:01:45.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\84917\\OneDrive\\M\u00E1y t\u00EDnh\\TicTacToe_Proj\\Tictactoe\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",

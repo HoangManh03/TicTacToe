@@ -17,7 +17,7 @@ namespace Tictactoe
             int x = 0;
             int y = 0;
             int bestScore = -999;
-            for (int i = 0; i < Constant.CHESS_BOARD_HEIGTH; i++)
+            for (int i = 0; i < Constant.CHESS_BOARD_HEIGHT; i++)
             {
                 for(int j = 0; j < Constant.CHESS_BOARD_WIDTH; j++)
                 {                                                         
@@ -70,7 +70,7 @@ namespace Tictactoe
             int x = 0;
             int y = 0;
             int bestScore = -999;
-            for (int i = 0; i < Constant.CHESS_BOARD_HEIGTH; i++)
+            for (int i = 0; i < Constant.CHESS_BOARD_HEIGHT; i++)
             {
                 for (int j = 0; j < Constant.CHESS_BOARD_WIDTH; j++)
                 {
@@ -142,7 +142,7 @@ namespace Tictactoe
             if (isBot)
             {
                 int bestScore = -999;
-                for (int i = 0; i < Constant.CHESS_BOARD_HEIGTH; i++)
+                for (int i = 0; i < Constant.CHESS_BOARD_HEIGHT; i++)
                 {
                     for (int j = 0; j < Constant.CHESS_BOARD_WIDTH; j++)
                     {
@@ -164,7 +164,7 @@ namespace Tictactoe
             else
             {
                 int bestScore = 999;
-                for (int i = 0; i < Constant.CHESS_BOARD_HEIGTH; i++)
+                for (int i = 0; i < Constant.CHESS_BOARD_HEIGHT; i++)
                 {
                     for (int j = 0; j < Constant.CHESS_BOARD_WIDTH; j++)
                     {

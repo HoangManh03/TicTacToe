@@ -22,9 +22,9 @@ namespace Tictactoe
         {
             this.Hide();
             Constant.CHESS_WIDTH = 60;
-            Constant.CHESS_HEIGTH = 60;
+            Constant.CHESS_HEIGHT = 60;
             Constant.CHESS_BOARD_WIDTH = 3;
-            Constant.CHESS_BOARD_HEIGTH = 3;
+            Constant.CHESS_BOARD_HEIGHT = 3;
             Gameplay_Bot1 g = new Gameplay_Bot1();            
             g.ShowDialog();
         }
@@ -33,9 +33,9 @@ namespace Tictactoe
         {
             this.Hide();
             Constant.CHESS_WIDTH = 60;
-            Constant.CHESS_HEIGTH = 60;
+            Constant.CHESS_HEIGHT = 60;
             Constant.CHESS_BOARD_WIDTH = 3;
-            Constant.CHESS_BOARD_HEIGTH = 3;
+            Constant.CHESS_BOARD_HEIGHT = 3;
             Gameplay_Bot2 g = new Gameplay_Bot2();
             g.ShowDialog();
         }

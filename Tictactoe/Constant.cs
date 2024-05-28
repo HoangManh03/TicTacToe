@@ -10,9 +10,9 @@ namespace Tictactoe
     internal class Constant
     {
         public static int CHESS_WIDTH = 40;
-        public static int CHESS_HEIGTH = 40;
+        public static int CHESS_HEIGHT = 40;
 
         public static int CHESS_BOARD_WIDTH = 17;
-        public static int CHESS_BOARD_HEIGTH = 17;
+        public static int CHESS_BOARD_HEIGHT = 17;
     }
 }

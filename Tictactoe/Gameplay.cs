@@ -25,7 +25,7 @@ namespace Tictactoe
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            Size = new Size(Constant.CHESS_WIDTH * Constant.CHESS_BOARD_WIDTH + 40, Constant.CHESS_HEIGTH * Constant.CHESS_BOARD_HEIGTH + 100);
+            Size = new Size(Constant.CHESS_WIDTH * Constant.CHESS_BOARD_WIDTH + 40, Constant.CHESS_HEIGHT * Constant.CHESS_BOARD_HEIGHT + 100);
         }
 
         public void newgame()
@@ -60,7 +60,7 @@ namespace Tictactoe
 
         private void panel_Paint(object sender, PaintEventArgs e)
         {
-            panel.Size = new Size(Constant.CHESS_WIDTH * Constant.CHESS_BOARD_WIDTH, Constant.CHESS_HEIGTH * Constant.CHESS_BOARD_HEIGTH);
+            panel.Size = new Size(Constant.CHESS_WIDTH * Constant.CHESS_BOARD_WIDTH, Constant.CHESS_HEIGHT * Constant.CHESS_BOARD_HEIGHT);
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
