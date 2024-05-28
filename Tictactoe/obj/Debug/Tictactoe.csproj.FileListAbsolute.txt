@@ -1,0 +1,195 @@
+C:\Term 6\Lập trình ứng dụng\Tictactoe\bin\Debug\Tictactoe.exe.config
+C:\Term 6\Lập trình ứng dụng\Tictactoe\bin\Debug\Tictactoe.exe
+C:\Term 6\Lập trình ứng dụng\Tictactoe\bin\Debug\Tictactoe.pdb
+C:\Term 6\Lập trình ứng dụng\Tictactoe\obj\Debug\Tictactoe.csproj.AssemblyReference.cache
+C:\Term 6\Lập trình ứng dụng\Tictactoe\obj\Debug\Tictactoe.Form1.resources
+C:\Term 6\Lập trình ứng dụng\Tictactoe\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Term 6\Lập trình ứng dụng\Tictactoe\obj\Debug\Tictactoe.csproj.GenerateResource.cache
+C:\Term 6\Lập trình ứng dụng\Tictactoe\obj\Debug\Tictactoe.csproj.CoreCompileInputs.cache
+C:\Term 6\Lập trình ứng dụng\Tictactoe\obj\Debug\Tictactoe.exe
+C:\Term 6\Lập trình ứng dụng\Tictactoe\obj\Debug\Tictactoe.pdb
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\obj\Debug\Tictactoe.csproj.AssemblyReference.cache
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\obj\Debug\Tictactoe.Form1.resources
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\obj\Debug\Tictactoe.csproj.GenerateResource.cache
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\obj\Debug\Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\obj\Debug\Tictactoe.exe
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\obj\Debug\Tictactoe.pdb
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\bin\Debug\Tictactoe.exe.config
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\bin\Debug\Tictactoe.exe
+C:\Users\84917\OneDrive\Máy tính\Tictactoe\bin\Debug\Tictactoe.pdb
+D:\Tictactoe\bin\Debug\Tictactoe.exe.config
+D:\Tictactoe\bin\Debug\Tictactoe.exe
+D:\Tictactoe\bin\Debug\Tictactoe.pdb
+D:\Tictactoe\obj\Debug\Tictactoe.csproj.AssemblyReference.cache
+D:\Tictactoe\obj\Debug\Tictactoe.Properties.Resources.resources
+D:\Tictactoe\obj\Debug\Tictactoe.csproj.GenerateResource.cache
+D:\Tictactoe\obj\Debug\Tictactoe.csproj.CoreCompileInputs.cache
+D:\Tictactoe\obj\Debug\Tictactoe.exe
+D:\Tictactoe\obj\Debug\Tictactoe.pdb
+D:\Tictactoe\obj\Debug\Tictactoe.Gameplay.resources
+D:\Tictactoe\obj\Debug\Tictactoe.Menu.resources
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\bin\Debug\Tictactoe.exe.config
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\bin\Debug\Tictactoe.exe
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\bin\Debug\Tictactoe.pdb
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\obj\Debug\Tictactoe.csproj.AssemblyReference.cache
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\obj\Debug\Tictactoe.Gameplay.resources
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\obj\Debug\Tictactoe.Menu.resources
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\obj\Debug\Tictactoe.csproj.GenerateResource.cache
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\obj\Debug\Tictactoe.csproj.CoreCompileInputs.cache
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\obj\Debug\Tictactoe.exe
+C:\Term 6\Lập trình ứng dụng\Tictactoe.2\Tictactoe\obj\Debug\Tictactoe.pdb
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Tictactoe.exe.config
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Tictactoe.exe
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Tictactoe.pdb
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.csproj.AssemblyReference.cache
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.Gameplay.resources
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.Menu.resources
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.csproj.GenerateResource.cache
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.exe
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.pdb
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.Azure.Pipelines.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Pipelines.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Buffers.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Memory.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Text.Json.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.ValueTuple.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Web.Http.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.Azure.Pipelines.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Pipelines.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Buffers.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Memory.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Text.Json.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.ValueTuple.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Web.Http.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.csproj.Up2Date
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.Player_Bot.resources
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.Gameplay_Bot1.resources
+C:\Users\84917\OneDrive\Máy tính\TicTacToe_Proj\Tictactoe\obj\Debug\Tictactoe.Gameplay_Bot2.resources

@@ -1,0 +1,11 @@
+D:\Tictactoe\bin\Release\Tictactoe.exe.config
+D:\Tictactoe\bin\Release\Tictactoe.exe
+D:\Tictactoe\bin\Release\Tictactoe.pdb
+D:\Tictactoe\obj\Release\Tictactoe.csproj.AssemblyReference.cache
+D:\Tictactoe\obj\Release\Tictactoe.Gameplay.resources
+D:\Tictactoe\obj\Release\Tictactoe.Menu.resources
+D:\Tictactoe\obj\Release\Tictactoe.Properties.Resources.resources
+D:\Tictactoe\obj\Release\Tictactoe.csproj.GenerateResource.cache
+D:\Tictactoe\obj\Release\Tictactoe.csproj.CoreCompileInputs.cache
+D:\Tictactoe\obj\Release\Tictactoe.exe
+D:\Tictactoe\obj\Release\Tictactoe.pdb
