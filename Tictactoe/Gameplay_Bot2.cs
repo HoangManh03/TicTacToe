@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -16,9 +17,10 @@ namespace Tictactoe
         {
             InitializeComponent();
             newgame();
+            this.StartPosition = FormStartPosition.CenterParent;
         }
 
-
+      
         List<Player> Players = new List<Player>()
         {
             new Player("You", Image.FromFile(Application.StartupPath + "\\o.png")),
@@ -63,6 +65,8 @@ namespace Tictactoe
 
         void new_button_Click(object sender, EventArgs e)
         {
+
+           
             Button button = (Button)sender;
 
             if (button.BackgroundImage != null)
@@ -72,6 +76,8 @@ namespace Tictactoe
 
             EndGame isEndgame = new EndGame(button, Matrix);
 
+            CurrentPlayer = CurrentPlayer == 1 ? 0 : 1;
+
             if (isEndgame.isEndgame(button, Matrix) == 1)
             {
                 if (MessageBox.Show("You win", "Notification", MessageBoxButtons.RetryCancel) == DialogResult.Retry)
@@ -79,10 +85,10 @@ namespace Tictactoe
                     DrawChessBoard();
                 }
             }
-            CurrentPlayer = CurrentPlayer == 1 ? 0 : 1;
-            minimax mini = new minimax();
-            mini.Bot_Move1(Matrix, Players);
-            CurrentPlayer = CurrentPlayer == 1 ? 0 : 1;
+                minimax mini = new minimax();
+                mini.Bot_Move1(Matrix, Players , this);
+
+                CurrentPlayer = CurrentPlayer == 1 ? 0 : 1;
         }
 
         public int nullButton(List<List<Button>> matrix)

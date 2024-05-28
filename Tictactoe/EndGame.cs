@@ -36,8 +36,8 @@ namespace Tictactoe
         }
 
         public int isEndgame(Button button1, List<List<Button>> matrix)
-        {
-            
+        {           
+
             if(Constant.CHESS_BOARD_WIDTH < 5)
             {
                 if (Endgame_Horizon(button1, matrix) == Constant.CHESS_BOARD_WIDTH || Endgame_Vertical(button1, matrix) == Constant.CHESS_BOARD_WIDTH ||
@@ -45,13 +45,17 @@ namespace Tictactoe
                 {
                     return 1;
                 }
+                else if (nullButton(matrix) == 0)
+                {
+                    return 0;
+                }
             }
             if(Endgame_Horizon(button1, matrix) >= 5 || Endgame_Vertical(button1, matrix) >=5 ||
                 Endgame_Diagonal_2(button1, matrix) >= 5 || Endgame_Diagonal_1(button1, matrix) >= 5)
             {
                 return 1;
             }
-            if (nullButton(matrix) == 0)
+            else if (nullButton(matrix) == 0)
             {
                 return 0;
             }

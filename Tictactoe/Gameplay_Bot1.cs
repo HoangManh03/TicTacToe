@@ -16,6 +16,7 @@ namespace Tictactoe
         {
             InitializeComponent();
             newgame();
+            this.StartPosition = FormStartPosition.CenterParent;
         }
 
 
@@ -81,7 +82,7 @@ namespace Tictactoe
             }
             CurrentPlayer = CurrentPlayer == 1 ? 0 : 1;
             minimax mini = new minimax();
-            mini.Bot_Move2(Matrix, Players);
+            mini.Bot_Move2(Matrix, Players, this);
             CurrentPlayer = CurrentPlayer == 1 ? 0 : 1;
         }      
 

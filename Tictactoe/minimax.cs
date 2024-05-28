@@ -12,7 +12,7 @@ namespace Tictactoe
 {
     internal class minimax
     {
-        public void Bot_Move1(List<List<Button>> matrix, List<Player> player)
+        public void Bot_Move1(List<List<Button>> matrix, List<Player> player , Gameplay_Bot2 g)
         {
             int x = 0;
             int y = 0;
@@ -39,7 +39,11 @@ namespace Tictactoe
                     }
                 }
             }
-            matrix[x][y].BackgroundImage = player[1].Mark;
+            if (matrix[x][y].BackgroundImage == null)
+            {
+                matrix[x][y].BackgroundImage = player[1].Mark;
+            }
+                
 
             EndGame isEndgame = new EndGame(matrix[x][y], matrix);
 
@@ -47,22 +51,21 @@ namespace Tictactoe
             {
                 if (MessageBox.Show("You Lose", "Notification", MessageBoxButtons.RetryCancel) == DialogResult.Retry)
                 {
-                    Gameplay g = new Gameplay();
-                    g.newgame();
+                    g.DrawChessBoard();
                 }
             }
             if (isEndgame.isEndgame(matrix[x][y], matrix) == 0)
             {
                 if (MessageBox.Show("Tie", "Notification", MessageBoxButtons.RetryCancel) == DialogResult.Retry)
                 {
-                    Gameplay g = new Gameplay();
-                    g.newgame();
+                    //Gameplay_Bot2 g = new Gameplay_Bot2();
+                    g.DrawChessBoard();
                 }
                 return;
             }
         }
 
-        public void Bot_Move2(List<List<Button>> matrix, List<Player> player)
+        public void Bot_Move2(List<List<Button>> matrix, List<Player> player, Gameplay_Bot1 g)
         {
             int x = 0;
             int y = 0;
@@ -97,7 +100,7 @@ namespace Tictactoe
             {
                 if (MessageBox.Show("You Lose", "Notification", MessageBoxButtons.RetryCancel) == DialogResult.Retry)
                 {
-                    Gameplay g = new Gameplay();
+                    //Gameplay_Bot1 g = new Gameplay_Bot1();
                     g.newgame();
                 }
                 return;
@@ -106,7 +109,7 @@ namespace Tictactoe
             {
                 if (MessageBox.Show("Tie", "Notification", MessageBoxButtons.RetryCancel) == DialogResult.Retry)
                 {
-                    Gameplay g = new Gameplay();
+                    //Gameplay g = new Gameplay();
                     g.newgame();
                 }
                 return;

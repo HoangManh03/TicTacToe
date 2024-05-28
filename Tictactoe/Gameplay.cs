@@ -21,6 +21,7 @@ namespace Tictactoe
             InitializeComponent();
             ///Vẽ bàn cờ
             newgame();
+            this.StartPosition = FormStartPosition.CenterParent;
         }
         private void Form1_Load(object sender, EventArgs e)
         {
